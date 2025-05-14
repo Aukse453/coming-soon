@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/Aukse453/coming-soon
+Site published at: https://front-end-by-rimantas.github.io/55-grupe-coming-soon
 
 Design: ![alt text](./project-design.png)
 
@@ -26,6 +26,7 @@ Design: ![alt text](./project-design.png)
 -   CSS animations
 -   HTML forms
 -   background image
+-   CSS custom properties (aka variables)
 
 ## 🧰 Getting Started
 
@@ -49,7 +50,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/Aukse453/coming-soon
+    git clone https://github.com/front-end-by-rimantas/55-grupe-coming-soon.git
     ```
 2. Install NPM packages
     ```sh
@@ -70,7 +71,8 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: https://github.com/Aukse453/coming-soon
+Rimantas: [Github](https://github.com/belauzas)
+
 ## ⚠️ License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
